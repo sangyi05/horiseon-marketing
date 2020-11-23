@@ -19,10 +19,10 @@ Horiseon is a marketing agency who wanted to meet accessibility standards and op
 Website now ensures that people with disabilities can access a website using assistive technologies. 
 
 Functioning navigation bar.
-![Functioning navigation bar](Develop/assets/images/navigation.png)
+![Functioning navigation bar](assets/images/navigation.png)
 
 Addition of alternative text to images. 
-![Addition of alternative text to images](Develop/assets/images/content.png)
+![Addition of alternative text to images](assets/images/content.png)
 
 ## License
 MIT License
