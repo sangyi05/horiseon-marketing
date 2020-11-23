@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Code Refactor Starter Code
+=======
+>>>>>>> ce61080f9f256d5a4832ecca93a1c9c6954ac3ef
 # Horiseon, Marketing Agency
 
 ## Table of Contents
